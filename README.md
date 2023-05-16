@@ -2,7 +2,7 @@
 Actual transactions from UK retailer.
 
 
-![img]("https://storage.googleapis.com/kaggle-datasets-images/1985/3404/86a442881be475eef09214be8458269f/dataset-cover.jpg")
+![img]("https://storage.googleapis.com/kaggle-datasets-images/1985/3404/86a442881be475eef09214be8458269f/dataset-cover.jpg](https://cdn.shopify.com/s/files/1/0070/7032/files/Google_Analytics_for_Ecommerce.jpg?v=1653070075")
 
 # About Dataset
 
