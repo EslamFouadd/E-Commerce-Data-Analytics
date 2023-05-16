@@ -19,3 +19,10 @@ Image from stocksnap.io.
 
 Inspiration
 Analyses for this dataset could include time series, clustering, classification and more.
+
+
+E-commerce dataset source:
+https://www.kaggle.com/datasets/carrie1/ecommerce-data?resource=download
+
+Sincerely,
+Mr. Eslam Fouad.
